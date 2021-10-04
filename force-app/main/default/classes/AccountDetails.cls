@@ -1,6 +1,6 @@
 public class AccountDetails {
     public AccountDetails(ApexPages.StandardController controller){
-        System.debug('The Message');
+        System.debug('overrided');
         
     }
 }
